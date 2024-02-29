@@ -1,4 +1,4 @@
-# Fingerprint-Identification-using-CNN
+# Fingerprint-Identification-using-Digital Image Processing
 Welcome to the Fingerprint Identification Using Digital Image Processing project! This project aims to develop a system for fingerprint identification using digital image processing techniques. Fingerprint identification is a crucial task in biometric security systems, and digital image processing offers efficient methods for extracting features from fingerprint images for identification purposes.
 
 # Introduction
