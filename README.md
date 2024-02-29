@@ -9,12 +9,19 @@ The dataset used in this project consists of fingerprint images collected from v
 
 # Steps Involved in Fingerprint Identification
 Step 1: Fingerprint segmentation
+
 Step 2: Estimation of local ridge orientation
+
 Step 3: Estimation of local ridge frequency
+
 Step 4: Fingerprint enhancement
+
 Step 5: Detection of minutiae positions
+
 Step 6: Estimation of minutiae directions
+
 Step 7: Creation of local structures
+
 Step 8: Fingerprint comparison
 
 # Result
